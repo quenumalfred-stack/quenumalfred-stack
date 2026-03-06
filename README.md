@@ -1,16 +1,52 @@
-## Hi there 👋
+# Alfred Quenum
 
-<!--
-**quenumalfred-stack/quenumalfred-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Supply Chain & Distribution Operations Executive with 10+ years of experience leading large-scale logistics networks across Amazon and the U.S. Army.
 
-Here are some ideas to get you started:
+Currently leading operations within high-volume fulfillment facilities processing **700,000+ units daily** and managing **2,000+ associates** across multi-shift operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Expertise
+
+- Supply Chain Operations
+- Logistics Network Optimization
+- Lean Six Sigma
+- Operations Analytics
+- Automation & Systems Integration
+- Data Analytics (SQL, Python, Tableau, and Excel)
+
+---
+
+## Current Focus
+
+📊 Supply Chain Data Analytics  
+📦 Logistics Optimization  
+🤖 Automation & Operational Efficiency  
+📈 Data Visualization with Tableau
+
+---
+
+## Featured Project
+
+### E-Commerce Sales Analysis
+
+SQL + Python + Tableau analysis of e-commerce sales data.
+
+Key analysis:
+- Sales trends
+- Regional performance
+- Product category performance
+- Customer behavior insights
+
+Repository:
+https://github.com/quenumalfred-stack/ecommerce-sales-analysis
+
+---
+
+## Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/alfred-q-50434b170
+
+Email  
+quenum.alfred@gmail.com
