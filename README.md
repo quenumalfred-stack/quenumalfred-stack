@@ -41,6 +41,20 @@ Key analysis:
 Repository:
 https://github.com/quenumalfred-stack/ecommerce-sales-analysis
 
+## Supply Chain Dashboard
+
+SQL + Python + Tableau analytics dashboard analyzing supply chain operations.
+
+Key analysis:
+
+• Revenue by warehouse  
+• Order volume trend  
+• Shipping delay rate  
+• Inventory levels by product  
+• Revenue by category  
+
+Repository: https://github.com/quenumalfred-stack/supply-chain-dashboard
+
 ---
 
 ## Connect With Me
