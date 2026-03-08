@@ -55,6 +55,21 @@ Key analysis:
 
 Repository: https://github.com/quenumalfred-stack/supply-chain-dashboard
 
+## DHL Facility Network Dashboard
+
+SQL + Python + Tableau logistics network analysis of DHL U.S. distribution facilities.
+
+Key analysis:
+
+- Geographic distribution of facilities
+- Facility type breakdown
+- Regional network coverage
+- Distribution center density
+- Logistics infrastructure insights
+
+Repository:
+https://github.com/quenumalfred-stack/dhl-facility-network
+
 ---
 
 ## Connect With Me
