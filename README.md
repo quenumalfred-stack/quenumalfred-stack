@@ -70,6 +70,23 @@ Key analysis:
 Repository:
 https://github.com/quenumalfred-stack/dhl-facility-network
 
+## Tesla Warehouse Operations Dashboard
+
+SQL + Python + Tableau warehouse operations analysis of Tesla fulfillment and distribution center performance.
+
+Key analysis:
+
+* Warehouse zone processing performance
+* Picker productivity analysis
+* Order processing time distribution
+* Operational error rate analysis
+* Warehouse shift efficiency
+* Supply chain operations insights
+
+Repository:
+https://github.com/quenumalfred-stack/tesla-warehouse-operations-dashboard
+
+
 ---
 
 ## Connect With Me
