@@ -86,6 +86,18 @@ Key analysis:
 Repository:
 https://github.com/quenumalfred-stack/tesla-warehouse-operations-dashboard
 
+## Tesla Warehouse Automation – Excel VBA System
+
+Key analysis:
+
+* Warehouse zone productivity analysis
+* Picker performance monitoring
+* Order processing throughput evaluation
+* Operational error rate detection
+* Shift efficiency comparison
+
+Repository:
+https://github.com/quenumalfred-stack/tesla-warehouse-vba-automation
 
 ---
 
