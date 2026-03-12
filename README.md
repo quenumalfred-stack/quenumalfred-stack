@@ -99,6 +99,20 @@ Key analysis:
 Repository:
 https://github.com/quenumalfred-stack/tesla-warehouse-vba-automation
 
+## Toyota Production Analytics Dashboard — Excel VBA Project
+
+Key analysis:
+
+• Production station performance analysis  
+• Automated production order generation (10,000 simulated orders)  
+• Manufacturing defect rate monitoring  
+• Order processing time distribution analysis  
+• Lean manufacturing KPI tracking  
+• Pareto defect root-cause analysis  
+• Smart factory operations dashboard visualization  
+
+Repository: https://github.com/quenumalfred-stack/toyota-production-analytics-dashboard
+
 ---
 
 ## Connect With Me
