@@ -2,7 +2,7 @@
 
 Senior Supply Chain & Distribution Operations Executive with 10+ years of experience leading large-scale logistics networks across Amazon and the U.S. Army.
 
-Currently leading operations within high-volume fulfillment facilities processing **700,000+ units daily** and managing **2,000+ associates** across multi-shift operations.
+Currently leading operations within high-volume fulfillment facilities over 640,000 square feet, processing **700,000+ units daily (1,000,000 units during High Volume Event)** and managing **2,000+ associates** across multi-shift operations.
 
 ---
 
