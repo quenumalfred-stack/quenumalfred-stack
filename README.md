@@ -113,6 +113,24 @@ Key analysis:
 
 Repository: https://github.com/quenumalfred-stack/toyota-production-analytics-dashboard
 
+## Web-Scraped Commodity Market Dashboard
+
+Excel VBA logistics-style analytics project that scrapes and visualizes global commodity prices including lithium, gold, silver, and copper.
+
+Key analysis:
+
+* Commodity price comparison
+* Lithium market price monitoring
+* Precious metals price tracking (gold & silver)
+* Industrial metal price monitoring (copper)
+* Log-scale visualization for large price differences
+* Real-time dashboard updates via web scraping
+
+Repository:
+
+https://github.com/quenumalfred-stack/web-scraped-commodity-dashboard
+
+
 ---
 
 ## Connect With Me
